@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.4.1)  10 MAY 2017 10:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.4.1)  6 SEP 2017 15:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1476,59 +1476,56 @@ Package: subfigure 2002/03/15 v2.1.5 subfigure package
 (/usr/local/texlive/2016/texmf-dist/tex/latex/subfigure/subfigure.cfg)
 \subfig@top=\skip78
 \subfig@bottom=\skip79
-) (/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/multimedia/multimedia.sty
-Package: multimedia 2012/05/02 ver 0.02
-\mm@movie=\count291
 )
-LaTeX Font Info:    Try loading font information for T1+zpltosf on input line 85.
+LaTeX Font Info:    Try loading font information for T1+zpltosf on input line 82.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/newpx/t1zpltosf.fd
 File: t1zpltosf.fd 2015/01/17 v1.0 font definition file for T1/zpl/tosf
 )
 LaTeX Font Info:    Font shape `T1/zpltosf/m/n' will be
-(Font)              scaled to size 10.95pt on input line 85.
+(Font)              scaled to size 10.95pt on input line 82.
  (./delay_OHM_workshop.aux)
 \openout1 = `delay_OHM_workshop.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/npxmi/m/it on input line 85.
-LaTeX Font Info:    Try loading font information for OML+npxmi on input line 85.
+LaTeX Font Info:    Checking defaults for OML/npxmi/m/it on input line 82.
+LaTeX Font Info:    Try loading font information for OML+npxmi on input line 82.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/newpx/omlnpxmi.fd
 File: omlnpxmi.fd 2013/03/21 Fontinst v1.933 font definitions for OML/npxmi.
 )
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for U/npxexa/m/n on input line 85.
-LaTeX Font Info:    Try loading font information for U+npxexa on input line 85.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for U/npxexa/m/n on input line 82.
+LaTeX Font Info:    Try loading font information for U+npxexa on input line 82.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/newpx/unpxexa.fd
 File: unpxexa.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxexa.
 )
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 85.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 85.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 82.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 82.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for LMS/npxsy/m/n on input line 85.
-LaTeX Font Info:    Try loading font information for LMS+npxsy on input line 85.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for LMS/npxsy/m/n on input line 82.
+LaTeX Font Info:    Try loading font information for LMS+npxsy on input line 82.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/newpx/lmsnpxsy.fd
 File: lmsnpxsy.fd 2016/08/13 Fontinst v1.933 font definitions for LMS/npxsy.
 )
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for LMX/npxexx/m/n on input line 85.
-LaTeX Font Info:    Try loading font information for LMX+npxexx on input line 85.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for LMX/npxexx/m/n on input line 82.
+LaTeX Font Info:    Try loading font information for LMX+npxexx on input line 82.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/newpx/lmxnpxexx.fd
 File: lmxnpxexx.fd 2016/08/13 Fontinst v1.933 font definitions for LMX/npxexx.
 )
-LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    ... okay on input line 82.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1566,16 +1563,16 @@ LaTeX Font Info:    ... okay on input line 85.
 
 (/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count292
+\scratchcounter=\count291
 \scratchdimen=\dimen317
 \scratchbox=\box65
-\nofMPsegments=\count293
-\nofMParguments=\count294
+\nofMPsegments=\count292
+\nofMParguments=\count293
 \everyMPshowfont=\toks62
-\MPscratchCnt=\count295
+\MPscratchCnt=\count294
 \MPscratchDim=\dimen318
-\MPnumerator=\count296
-\makeMPintoPDFobject=\count297
+\MPnumerator=\count295
+\makeMPintoPDFobject=\count296
 \everyMPtoPDFconversion=\toks63
 ) (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -1590,17 +1587,17 @@ Package grfext Info: Graphics extension search list:
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 )) ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box66
-Package hyperref Info: Link coloring OFF on input line 85.
+Package hyperref Info: Link coloring OFF on input line 82.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
  (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count298
+\c@section@level=\count297
 )
-LaTeX Info: Redefining \ref on input line 85.
-LaTeX Info: Redefining \pageref on input line 85.
-LaTeX Info: Redefining \nameref on input line 85.
+LaTeX Info: Redefining \ref on input line 82.
+LaTeX Info: Redefining \pageref on input line 82.
+LaTeX Info: Redefining \nameref on input line 82.
  (./delay_OHM_workshop.out) (./delay_OHM_workshop.out)
 \@outlinefile=\write5
 \openout5 = `delay_OHM_workshop.out'.
@@ -1619,287 +1616,308 @@ Dictionary: translator-numbers-dictionary, Language: English
 ) (/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/translator/dicts/translator-theorem-dictionary/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \includegraphics on input line 85.
+LaTeX Info: Redefining \includegraphics on input line 82.
  ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 85.
+LaTeX Info: Redefining \selectfont on input line 82.
 
 
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable tick labels; missing features). Consider writing \pgfplotsset{compat=1.14} into your preamble.
- on input line 85.
+ on input line 82.
 
-\c@lstlisting=\count299
-\c@mv@tabular=\count300
-\c@mv@boldtabular=\count301
+\c@lstlisting=\count298
+\c@mv@tabular=\count299
+\c@mv@boldtabular=\count300
 (/usr/local/texlive/2016/texmf-dist/tex/latex/upquote/upquote.sty
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verbatim
 ) (./delay_OHM_workshop.nav)
 LaTeX Font Info:    Font shape `T1/zpltosf/m/n' will be
-(Font)              scaled to size 6.0pt on input line 85.
+(Font)              scaled to size 6.0pt on input line 82.
 LaTeX Font Info:    Font shape `T1/zpltosf/m/n' will be
-(Font)              scaled to size 20.74pt on input line 93.
+(Font)              scaled to size 20.74pt on input line 90.
 LaTeX Font Info:    Font shape `T1/zpltosf/m/sc' will be
-(Font)              scaled to size 20.74pt on input line 93.
-LaTeX Font Info:    Try loading font information for T1+Cabin-TLF on input line 93.
+(Font)              scaled to size 20.74pt on input line 90.
+LaTeX Font Info:    Try loading font information for T1+Cabin-TLF on input line 90.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/cabin/T1Cabin-TLF.fd
 File: T1Cabin-TLF.fd 2012/11/17 (autoinst) Font definitions for T1/Cabin-TLF.
 )
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/m/sc' will be
-(Font)              scaled to size 20.74pt on input line 93.
+(Font)              scaled to size 20.74pt on input line 90.
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/m/sc' will be
-(Font)              scaled to size 14.4pt on input line 93.
+(Font)              scaled to size 14.4pt on input line 90.
 LaTeX Font Info:    Font shape `T1/zpltosf/m/n' will be
-(Font)              scaled to size 12.0pt on input line 93.
-LaTeX Font Info:    Try loading font information for T1+zi4 on input line 93.
- (/usr/local/texlive/2016/texmf-dist/tex/latex/inconsolata/t1zi4.fd
-File: t1zi4.fd 2016/12/29 T1/zi4 (Inconsolata)
-)
-LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
-(Font)              scaled to size 12.0pt on input line 93.
-LaTeX Font Info:    Font shape `T1/zpltosf/m/sc' will be
-(Font)              scaled to size 12.0pt on input line 93.
- <img/logo_geolab.jpg, id=34, 120.45pt x 120.45pt>
+(Font)              scaled to size 12.0pt on input line 90.
+ <img/logo_geolab.jpg, id=37, 120.45pt x 120.45pt>
 File: img/logo_geolab.jpg Graphic file (type jpg)
  <use img/logo_geolab.jpg>
-Package pdftex.def Info: img/logo_geolab.jpg used on input line 93.
+Package pdftex.def Info: img/logo_geolab.jpg used on input line 90.
 (pdftex.def)             Requested size: 28.45277pt x 28.45274pt.
- <img/Logo_UMI.png, id=35, 69.3135pt x 75.8835pt>
+ <img/Logo_UMI.png, id=38, 69.3135pt x 75.8835pt>
 File: img/Logo_UMI.png Graphic file (type png)
  <use img/Logo_UMI.png>
-Package pdftex.def Info: img/Logo_UMI.png used on input line 93.
+Package pdftex.def Info: img/Logo_UMI.png used on input line 90.
 (pdftex.def)             Requested size: 25.98932pt x 28.45274pt.
- <img/Logo_DRIIHM.png, id=36, 368.1253pt x 74.52844pt>
+ <img/Logo_DRIIHM.png, id=39, 368.1253pt x 74.52844pt>
 File: img/Logo_DRIIHM.png Graphic file (type png)
  <use img/Logo_DRIIHM.png>
-Package pdftex.def Info: img/Logo_DRIIHM.png used on input line 93.
+Package pdftex.def Info: img/Logo_DRIIHM.png used on input line 90.
 (pdftex.def)             Requested size: 140.54065pt x 28.45274pt.
- <img/Logo_tessekere.png, id=38, 120.45pt x 58.2175pt>
+ <img/Logo_tessekere.png, id=41, 120.45pt x 58.2175pt>
 File: img/Logo_tessekere.png Graphic file (type png)
  <use img/Logo_tessekere.png>
-Package pdftex.def Info: img/Logo_tessekere.png used on input line 93.
+Package pdftex.def Info: img/Logo_tessekere.png used on input line 90.
 (pdftex.def)             Requested size: 58.86662pt x 28.45274pt.
- <img/logo_Future_Sahel_petit.jpg, id=39, 284.06125pt x 284.06125pt>
+ <img/logo_Future_Sahel_petit.jpg, id=42, 284.06125pt x 284.06125pt>
 File: img/logo_Future_Sahel_petit.jpg Graphic file (type jpg)
  <use img/logo_Future_Sahel_petit.jpg>
-Package pdftex.def Info: img/logo_Future_Sahel_petit.jpg used on input line 93.
+Package pdftex.def Info: img/logo_Future_Sahel_petit.jpg used on input line 90.
 (pdftex.def)             Requested size: 28.45113pt x 28.45274pt.
  [1
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./img/logo_geolab.jpg> <./img/Logo_UMI.png> <./img/Logo_DRIIHM.png> <./img/Logo_tessekere.png> <./img/logo_Future_Sahel_petit.jpg>] [2
 
 ]
-LaTeX Font Info:    Try loading font information for OT1+zpltlf on input line 135.
+LaTeX Font Info:    Try loading font information for OT1+zpltlf on input line 132.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/newpx/ot1zpltlf.fd
 File: ot1zpltlf.fd 2015/01/17 v1.0 font definition file for OT1/zpl/tlf
 )
 LaTeX Font Info:    Font shape `OT1/zpltlf/m/n' will be
-(Font)              scaled to size 10.95pt on input line 135.
+(Font)              scaled to size 10.95pt on input line 132.
 LaTeX Font Info:    Font shape `OT1/zpltlf/m/n' will be
-(Font)              scaled to size 8.0pt on input line 135.
+(Font)              scaled to size 8.0pt on input line 132.
 LaTeX Font Info:    Font shape `OT1/zpltlf/m/n' will be
-(Font)              scaled to size 6.1pt on input line 135.
-LaTeX Font Info:    Try loading font information for U+msa on input line 135.
+(Font)              scaled to size 6.1pt on input line 132.
+LaTeX Font Info:    Try loading font information for U+msa on input line 132.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 135.
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
+LaTeX Font Info:    Try loading font information for U+msb on input line 132.
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+wasy on input line 135.
- (/usr/local/texlive/2016/texmf-dist/tex/latex/wasysym/uwasy.fd
+LaTeX Font Info:    Try loading font information for U+wasy on input line 132.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/wasysym/uwasy.fd
 File: uwasy.fd 2003/10/30 v2.0 Wasy-2 symbol font definitions
 )
-LaTeX Font Info:    Try loading font information for U+npxmia on input line 135.
+LaTeX Font Info:    Try loading font information for U+npxmia on input line 132.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/newpx/unpxmia.fd
 File: unpxmia.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxmia.
 )
-LaTeX Font Info:    Try loading font information for U+npxsym on input line 135.
+LaTeX Font Info:    Try loading font information for U+npxsym on input line 132.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/newpx/unpxsym.fd
 File: unpxsym.fd 2015/03/21 Fontinst v1.933 font definitions for U/npxsym.
 )
-LaTeX Font Info:    Try loading font information for U+npxsyc on input line 135.
+LaTeX Font Info:    Try loading font information for U+npxsyc on input line 132.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/newpx/unpxsyc.fd
 File: unpxsyc.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxsyc.
-) <img/2007_Podor.JPG, id=56, 903.375pt x 604.2575pt>
+)
+LaTeX Font Info:    Font shape `T1/zpltosf/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/zpltosf/b/n' tried instead on input line 132.
+LaTeX Font Info:    Font shape `T1/zpltosf/b/n' will be
+(Font)              scaled to size 10.95pt on input line 132.
+ <img/2007_Podor.JPG, id=57, 903.375pt x 604.2575pt>
 File: img/2007_Podor.JPG Graphic file (type jpg)
  <use img/2007_Podor.JPG>
-Package pdftex.def Info: img/2007_Podor.JPG used on input line 135.
+Package pdftex.def Info: img/2007_Podor.JPG used on input line 132.
 (pdftex.def)             Requested size: 153.64493pt x 102.76851pt.
 LaTeX Font Info:    Font shape `T1/zpltosf/m/n' will be
-(Font)              scaled to size 10.0pt on input line 135.
+(Font)              scaled to size 10.0pt on input line 132.
 LaTeX Font Info:    Font shape `T1/zpltosf/m/n' will be
-(Font)              scaled to size 14.4pt on input line 135.
+(Font)              scaled to size 14.4pt on input line 132.
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 135.
+(Font)              scaled to size 14.4pt on input line 132.
 
-Overfull \vbox (64.71452pt too high) detected at line 135
+Overfull \vbox (49.0746pt too high) detected at line 132
  []
 
 LaTeX Font Info:    Font shape `T1/zpltosf/m/n' will be
-(Font)              scaled to size 4.0pt on input line 135.
+(Font)              scaled to size 4.0pt on input line 132.
 [3
 
  <./img/2007_Podor.JPG>]
 LaTeX Font Info:    Font shape `T1/zpltosf/m/it' will be
-(Font)              scaled to size 10.95pt on input line 152.
- <img/PA310152.JPG, id=64, 1683.28876pt x 975.645pt>
+(Font)              scaled to size 10.95pt on input line 149.
+ <img/PA310152.JPG, id=66, 1683.28876pt x 975.645pt>
 File: img/PA310152.JPG Graphic file (type jpg)
  <use img/PA310152.JPG>
-Package pdftex.def Info: img/PA310152.JPG used on input line 152.
+Package pdftex.def Info: img/PA310152.JPG used on input line 149.
 (pdftex.def)             Requested size: 199.73653pt x 115.76228pt.
 
-Overfull \vbox (38.51575pt too high) detected at line 152
+Overfull \vbox (38.51575pt too high) detected at line 149
  []
 
 [4
 
- <./img/PA310152.JPG>] <img/RossBethio_3424.JPG, id=71, 1574.88374pt x 2097.8375pt>
-File: img/RossBethio_3424.JPG Graphic file (type jpg)
- <use img/RossBethio_3424.JPG>
-Package pdftex.def Info: img/RossBethio_3424.JPG used on input line 172.
-(pdftex.def)             Requested size: 92.1879pt x 122.79182pt.
+ <./img/PA310152.JPG>] [5
 
-Overfull \vbox (27.37807pt too high) detected at line 172
- []
-
-[5
-
- <./img/RossBethio_3424.JPG>]
-LaTeX Font Info:    Font shape `OT1/zpltlf/m/n' will be
-(Font)              scaled to size 10.0pt on input line 191.
-LaTeX Font Info:    Font shape `OT1/zpltlf/m/n' will be
-(Font)              scaled to size 7.3pt on input line 191.
-LaTeX Font Info:    Font shape `OT1/zpltlf/m/n' will be
-(Font)              scaled to size 5.5pt on input line 191.
-
-
-LaTeX Font Warning: Font shape `U/wasy/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 191.
-
-LaTeX Font Info:    Font shape `T1/zpltosf/m/it' will be
-(Font)              scaled to size 10.0pt on input line 191.
-<img/windows.png, id=77, 753.7761pt x 424.2249pt>
-File: img/windows.png Graphic file (type png)
- <use img/windows.png>
-Package pdftex.def Info: img/windows.png used on input line 191.
-(pdftex.def)             Requested size: 184.3758pt x 103.76447pt.
- [6
-
- <./img/windows.png>] [7
-
-] <img/group3.png, id=90, 370.38374pt x 207.77625pt>
+] <img/group3.png, id=78, 370.38374pt x 207.77625pt>
 File: img/group3.png Graphic file (type png)
  <use img/group3.png>
-Package pdftex.def Info: img/group3.png used on input line 213.
+Package pdftex.def Info: img/group3.png used on input line 172.
 (pdftex.def)             Requested size: 177.5222pt x 99.58464pt.
- <img/group2.png, id=91, 365.11406pt x 243.15843pt>
+ <img/group2.png, id=79, 365.11406pt x 243.15843pt>
 File: img/group2.png Graphic file (type png)
  <use img/group2.png>
-Package pdftex.def Info: img/group2.png used on input line 213.
+Package pdftex.def Info: img/group2.png used on input line 172.
 (pdftex.def)             Requested size: 149.5306pt x 99.58464pt.
 
-Overfull \hbox (23.04778pt too wide) in paragraph at lines 213--213
+Overfull \hbox (23.04778pt too wide) in paragraph at lines 172--172
  []  [] 
  []
 
-[8
+[6
 
- <./img/group3.png> <./img/group2.png>] <img/Khoudia.png, id=97, 365.11406pt x 205.5178pt>
+ <./img/group3.png> <./img/group2.png>] <img/Khoudia.png, id=85, 365.11406pt x 205.5178pt>
 File: img/Khoudia.png Graphic file (type png)
  <use img/Khoudia.png>
-Package pdftex.def Info: img/Khoudia.png used on input line 229.
+Package pdftex.def Info: img/Khoudia.png used on input line 188.
 (pdftex.def)             Requested size: 184.3758pt x 103.78096pt.
- [9
+ [7
 
- <./img/Khoudia.png>] [10
+ <./img/Khoudia.png>] [8
 
-] <img/ggearth.png, id=108, 1406.25375pt x 951.555pt>
+] <img/ggearth.png, id=97, 1406.25375pt x 951.555pt>
 File: img/ggearth.png Graphic file (type png)
  <use img/ggearth.png>
-Package pdftex.def Info: img/ggearth.png used on input line 245.
+Package pdftex.def Info: img/ggearth.png used on input line 204.
 (pdftex.def)             Requested size: 147.15674pt x 99.58464pt.
- <img/Sinare_et_al2016.png, id=109, 1276.77pt x 848.16875pt>
+ <img/Sinare_et_al2016.png, id=98, 1276.77pt x 848.16875pt>
 File: img/Sinare_et_al2016.png Graphic file (type png)
  <use img/Sinare_et_al2016.png>
-Package pdftex.def Info: img/Sinare_et_al2016.png used on input line 245.
+Package pdftex.def Info: img/Sinare_et_al2016.png used on input line 204.
 (pdftex.def)             Requested size: 149.89386pt x 99.58464pt.
+LaTeX Font Info:    Font shape `T1/zpltosf/m/it' will be
+(Font)              scaled to size 10.0pt on input line 204.
+ [9
+
+ <./img/ggearth.png> <./img/Sinare_et_al2016.png>] [10
+
+] <img/DSC_1789.JPG, id=110, 3934.7pt x 2212.265pt>
+File: img/DSC_1789.JPG Graphic file (type jpg)
+ <use img/DSC_1789.JPG>
+Package pdftex.def Info: img/DSC_1789.JPG used on input line 222.
+(pdftex.def)             Requested size: 184.3758pt x 103.63216pt.
  [11
 
- <./img/ggearth.png> <./img/Sinare_et_al2016.png>] <img/patches.png, id=116, 921.4425pt x 504.4446pt>
-File: img/patches.png Graphic file (type png)
- <use img/patches.png>
-Package pdftex.def Info: img/patches.png used on input line 258.
-(pdftex.def)             Requested size: 341.43306pt x 186.91098pt.
+ <./img/DSC_1789.JPG>] <img/photo_mission/01_Plage_filao.JPG, id=116, 4625.28pt x 2601.72pt>
+File: img/photo_mission/01_Plage_filao.JPG Graphic file (type jpg)
+ <use img/photo_mission/01_Plage_filao.JPG>
+Package pdftex.def Info: img/photo_mission/01_Plage_filao.JPG used on input line 237.
+(pdftex.def)             Requested size: 126.40161pt x 71.13188pt.
+LaTeX Font Info:    Font shape `T1/zpltosf/m/n' will be
+(Font)              scaled to size 9.0pt on input line 237.
+ <img/photo_mission/02_Champs_irrigue.JPG, id=117, 4625.28pt x 2601.72pt>
+File: img/photo_mission/02_Champs_irrigue.JPG Graphic file (type jpg)
+ <use img/photo_mission/02_Champs_irrigue.JPG>
+Package pdftex.def Info: img/photo_mission/02_Champs_irrigue.JPG used on input line 237.
+(pdftex.def)             Requested size: 126.40161pt x 71.13188pt.
+ <img/photo_mission/03_Brousse_peu_dense.JPG, id=118, 4625.28pt x 2601.72pt>
+File: img/photo_mission/03_Brousse_peu_dense.JPG Graphic file (type jpg)
+ <use img/photo_mission/03_Brousse_peu_dense.JPG>
+Package pdftex.def Info: img/photo_mission/03_Brousse_peu_dense.JPG used on input line 237.
+(pdftex.def)             Requested size: 126.40161pt x 71.13188pt.
+ <img/photo_mission/05_Brousse_dense.JPG, id=119, 4625.28pt x 2601.72pt>
+File: img/photo_mission/05_Brousse_dense.JPG Graphic file (type jpg)
+ <use img/photo_mission/05_Brousse_dense.JPG>
+Package pdftex.def Info: img/photo_mission/05_Brousse_dense.JPG used on input line 237.
+(pdftex.def)             Requested size: 126.40161pt x 71.13188pt.
+ [12
 
-Overfull \hbox (21.55925pt too wide) in paragraph at lines 258--258
- |  [] 
- []
-
-[12
-
- <./img/patches.png>] <img/patches2.png, id=123, 648.9846pt x 527.571pt>
-File: img/patches2.png Graphic file (type png)
- <use img/patches2.png>
-Package pdftex.def Info: img/patches2.png used on input line 268.
-(pdftex.def)             Requested size: 256.0748pt x 208.16689pt.
+ <./img/photo_mission/01_Plage_filao.JPG> <./img/photo_mission/02_Champs_irrigue.JPG> <./img/photo_mission/03_Brousse_peu_dense.JPG> <./img/photo_mission/05_Brousse_dense.JPG>] <img/photo_mission/06_Mares.JPG, id=125, 493.3632pt x 370.0224pt>
+File: img/photo_mission/06_Mares.JPG Graphic file (type jpg)
+ <use img/photo_mission/06_Mares.JPG>
+Package pdftex.def Info: img/photo_mission/06_Mares.JPG used on input line 247.
+(pdftex.def)             Requested size: 94.83908pt x 71.13188pt.
+ <img/photo_mission/07_Homestead.JPG, id=126, 4625.28pt x 2601.72pt>
+File: img/photo_mission/07_Homestead.JPG Graphic file (type jpg)
+ <use img/photo_mission/07_Homestead.JPG>
+Package pdftex.def Info: img/photo_mission/07_Homestead.JPG used on input line 247.
+(pdftex.def)             Requested size: 126.40161pt x 71.13188pt.
+ <img/photo_mission/08_Agriculture_pluvial.JPG, id=127, 4625.28pt x 2601.72pt>
+File: img/photo_mission/08_Agriculture_pluvial.JPG Graphic file (type jpg)
+ <use img/photo_mission/08_Agriculture_pluvial.JPG>
+Package pdftex.def Info: img/photo_mission/08_Agriculture_pluvial.JPG used on input line 247.
+(pdftex.def)             Requested size: 126.40161pt x 71.13188pt.
+ <img/photo_mission/10_Parcelle_reboisement.JPG, id=128, 4625.28pt x 2601.72pt>
+File: img/photo_mission/10_Parcelle_reboisement.JPG Graphic file (type jpg)
+ <use img/photo_mission/10_Parcelle_reboisement.JPG>
+Package pdftex.def Info: img/photo_mission/10_Parcelle_reboisement.JPG used on input line 247.
+(pdftex.def)             Requested size: 126.40161pt x 71.13188pt.
  [13
 
- <./img/patches2.png>] <img/pasto1.jpg, id=131, 405.01312pt x 231.86626pt>
-File: img/pasto1.jpg Graphic file (type jpg)
- <use img/pasto1.jpg>
-Package pdftex.def Info: img/pasto1.jpg used on input line 283.
-(pdftex.def)             Requested size: 173.95448pt x 99.58464pt.
- <img/pasto2.jpg, id=132, 405.76593pt x 228.10219pt>
-File: img/pasto2.jpg Graphic file (type jpg)
- <use img/pasto2.jpg>
-Package pdftex.def Info: img/pasto2.jpg used on input line 283.
-(pdftex.def)             Requested size: 177.14447pt x 99.58464pt.
+ <./img/photo_mission/06_Mares.JPG> <./img/photo_mission/07_Homestead.JPG> <./img/photo_mission/08_Agriculture_pluvial.JPG> <./img/photo_mission/10_Parcelle_reboisement.JPG>] <img/DSC_1793.JPG, id=135, 3934.7pt x 2212.265pt>
+File: img/DSC_1793.JPG Graphic file (type jpg)
+ <use img/DSC_1793.JPG>
+Package pdftex.def Info: img/DSC_1793.JPG used on input line 261.
+(pdftex.def)             Requested size: 245.83282pt x 138.1987pt.
+ [14
 
-Overfull \hbox (22.68922pt too wide) in paragraph at lines 283--283
- |  [][] 
- []
+ <./img/DSC_1793.JPG>] [15
 
-[14
+] <img/DSC_0371.JPG, id=146, 192.72pt x 129.1224pt>
+File: img/DSC_0371.JPG Graphic file (type jpg)
+ <use img/DSC_0371.JPG>
+Package pdftex.def Info: img/DSC_0371.JPG used on input line 275.
+(pdftex.def)             Requested size: 203.85875pt x 136.5733pt.
+ <img/map_RVB.png, id=147, 624.3325pt x 930.47626pt>
+File: img/map_RVB.png Graphic file (type png)
 
- <./img/pasto1.jpg> <./img/pasto2.jpg>] [15
-
-] <img/group1.png, id=143, 370.38374pt x 277.78781pt>
-File: img/group1.png Graphic file (type png)
- <use img/group1.png>
-Package pdftex.def Info: img/group1.png used on input line 296.
-(pdftex.def)             Requested size: 184.3758pt x 138.28317pt.
+<use img/map_RVB.png>
+Package pdftex.def Info: img/map_RVB.png used on input line 275.
+(pdftex.def)             Requested size: 91.63573pt x 136.5733pt.
  [16
 
- <./img/group1.png>] [17
+ <./img/DSC_0371.JPG> <./img/map_RVB.png>] <img/process.png, id=153, 681.54625pt x 636.3775pt>
+File: img/process.png Graphic file (type png)
+ <use img/process.png>
+Package pdftex.def Info: img/process.png used on input line 287.
+(pdftex.def)             Requested size: 245.83282pt x 229.54239pt.
+ [17
 
-] [18
+ <./img/process.png>] <img/map_classe_brousse.png, id=160, 624.3325pt x 930.47626pt>
+File: img/map_classe_brousse.png Graphic file (type png)
+ <use img/map_classe_brousse.png>
+Package pdftex.def Info: img/map_classe_brousse.png used on input line 295.
+(pdftex.def)             Requested size: 91.63573pt x 136.5733pt.
+ <img/pie_brousse.png, id=161, 585.6279pt x 416.2752pt>
+File: img/pie_brousse.png Graphic file (type png)
+ <use img/pie_brousse.png>
+Package pdftex.def Info: img/pie_brousse.png used on input line 295.
+(pdftex.def)             Requested size: 192.13187pt x 136.5733pt.
+ [18
 
-] <img/gama_ferlo.png, id=160, 1927.2pt x 1084.05pt>
-File: img/gama_ferlo.png Graphic file (type png)
- <use img/gama_ferlo.png>
-Package pdftex.def Info: img/gama_ferlo.png used on input line 339.
-(pdftex.def)             Requested size: 245.83282pt x 138.2683pt.
+ <./img/map_classe_brousse.png> <./img/pie_brousse.png>] <img/bar_general.png, id=168, 722.7pt x 415.5525pt>
+File: img/bar_general.png Graphic file (type png)
+ <use img/bar_general.png>
+Package pdftex.def Info: img/bar_general.png used on input line 308.
+(pdftex.def)             Requested size: 307.28987pt x 176.69307pt.
  [19
 
- <./img/gama_ferlo.png>] [20
+ <./img/bar_general.png (PNG copy)>] <img/bar_se.png, id=175, 722.7pt x 415.5525pt>
+File: img/bar_se.png Graphic file (type png)
+ <use img/bar_se.png>
+Package pdftex.def Info: img/bar_se.png used on input line 318.
+(pdftex.def)             Requested size: 307.28987pt x 176.69307pt.
+ [20
 
-] [21
+ <./img/bar_se.png (PNG copy)>] [21
+
+] [22
 
 ]
 LaTeX Font Info:    Font shape `T1/zpltosf/m/n' will be
-(Font)              scaled to size 17.28pt on input line 382.
- <img/github.png, id=179, 301.125pt x 451.6875pt>
+(Font)              scaled to size 17.28pt on input line 358.
+ <img/github.png, id=192, 301.125pt x 451.6875pt>
 File: img/github.png Graphic file (type png)
  <use img/github.png>
-Package pdftex.def Info: img/github.png used on input line 382.
+Package pdftex.def Info: img/github.png used on input line 358.
 (pdftex.def)             Requested size: 16.12312pt x 24.18501pt.
- <img/podor_fin.jpg, id=180, 1505.625pt x 1007.765pt>
+ <img/podor_fin.jpg, id=193, 1505.625pt x 1007.765pt>
 File: img/podor_fin.jpg Graphic file (type jpg)
  <use img/podor_fin.jpg>
-Package pdftex.def Info: img/podor_fin.jpg used on input line 382.
+Package pdftex.def Info: img/podor_fin.jpg used on input line 358.
 (pdftex.def)             Requested size: 364.19536pt x 243.75993pt.
- [22
+ [23
 
  <./img/podor_fin.jpg> <./img/github.png (PNG copy)>]
 \tf@nav=\write6
@@ -1911,32 +1929,27 @@ Package pdftex.def Info: img/podor_fin.jpg used on input line 382.
 \tf@snm=\write8
 \openout8 = `delay_OHM_workshop.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 386.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 386.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 362.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 362.
  (./delay_OHM_workshop.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 386.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 386.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 362.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 362.
 Package rerunfilecheck Info: File `delay_OHM_workshop.out' has not changed.
-(rerunfilecheck)             Checksum: E0D80DE17BA8EBBE173AE52B14DC5EAC;331.
-
-
-LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 0.5pt have occurred.
-
+(rerunfilecheck)             Checksum: FD4AD4AC24998052F712EF98B68492A2;380.
  ) 
 Here is how much of TeX's memory you used:
- 35799 strings out of 493013
- 814324 string characters out of 6133329
- 993437 words of memory out of 5000000
- 38437 multiletter control sequences out of 15000+600000
- 95729 words of font info for 102 fonts, out of 8000000 for 9000
+ 35710 strings out of 493013
+ 813457 string characters out of 6133329
+ 990561 words of memory out of 5000000
+ 38343 multiletter control sequences out of 15000+600000
+ 85021 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,11n,134p,1042b,864s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tosf.enc}{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/cabin/cbn_aojlca.enc}{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tosf-sc.enc}{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-5.enc}{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/cabin/cbn_hvmmj2.enc}</usr/local/texlive/2016/texmf-dist/fonts/type1/impallari/cabin/Cabin-Regular.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/wasy2-ps/wasy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/newpx/zplr.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/newpx/zplri.pfb>
-Output written on delay_OHM_workshop.pdf (22 pages, 12041813 bytes).
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tosf.enc}{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/cabin/cbn_aojlca.enc}{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/cabin/cbn_hvmmj2.enc}</usr/local/texlive/2016/texmf-dist/fonts/type1/impallari/cabin/Cabin-Regular.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/wasy2-ps/wasy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/newpx/zplb.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/newpx/zplr.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/newpx/zplri.pfb>
+Output written on delay_OHM_workshop.pdf (23 pages, 34266580 bytes).
 PDF statistics:
- 225 PDF objects out of 1000 (max. 8388607)
- 159 compressed objects within 2 object streams
- 50 named destinations out of 1000 (max. 500000)
- 197 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 235 PDF objects out of 1000 (max. 8388607)
+ 162 compressed objects within 2 object streams
+ 53 named destinations out of 1000 (max. 500000)
+ 246 words of extra memory for PDF output out of 10000 (max. 10000000)
 
